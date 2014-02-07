@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 == README
 
 This README would normally document whatever steps are necessary to get the
@@ -26,3 +27,9 @@ Things you may want to cover:
 
 Please feel free to use a different markup language if you do not plan to run
 <tt>rake doc:app</tt>.
+=======
+cim_admin
+=========
+
+this is for admin page of CIM new site
+>>>>>>> bef96e209f3445fdf575723bbcb7dceaccc2f995
